@@ -1,10 +1,17 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuunoko&show_icons=true&theme=tokyonight&border_radius=12&) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuunoko&langs_count=8&hide=css,html&layout=compact&theme=tokyonight&border_radius=12)](https://github.com/yuunoko/github-readme-stats)
+
+<a href="https://github.com/yuunoko/github-readme-stats">
+  <img width="48%" align="center" src="https://github-readme-stats.vercel.app/api?username=yuunoko&theme=tokyonight" />
+</a>
+<a href="https://github.com/yuunoko/github-readme-stats">
+  <img width="51%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuunoko&theme=tokyonight&layout=compact&hide=html,css" />
+</a>
 
 ### Repositories:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yuunoko&repo=react-typescript-rich-text-editor&theme=tokyonight&border_radius=12)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/yuunoko/github-readme-stats">
+  <img width="48%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuunoko&repo=&theme=tokyonight" />
+</a>
 
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

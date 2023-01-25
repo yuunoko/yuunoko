@@ -8,11 +8,7 @@
   </a>
 </div>
 
-### Repositories:
 
-<a href="https://github.com/yuunoko/github-readme-stats">
-  <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuunoko&repo=&theme=tokyonight" />
-</a>
 
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

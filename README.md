@@ -1,8 +1,4 @@
-### Github Stats: 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuunoko&show_icons=true&theme=tokyonight&border_radius=12&hide_title=true) 
-
-### Top Languages:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuunoko&show_icons=true&theme=tokyonight&border_radius=12&) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuunoko&langs_count=8&hide=css,html&layout=compact&theme=tokyonight&border_radius=12)](https://github.com/yuunoko/github-readme-stats)
 

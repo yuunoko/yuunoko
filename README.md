@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuunoko&show_icons=true&theme=tokyonight) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuunoko&show_icons=true&theme=tokyonight&border_radius=12) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuunoko&langs_count=8&hide=css,html&layout=compact&theme=tokyonight)](https://github.com/yuunoko/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuunoko&langs_count=8&hide=css,html&layout=compact&theme=tokyonight&border_radius=12)](https://github.com/yuunoko/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yuunoko&repo=react-typescript-rich-text-editor&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yuunoko&repo=react-typescript-rich-text-editor&theme=tokyonight&border_radius=12)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

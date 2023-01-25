@@ -1,16 +1,17 @@
 
-
-<a href="https://github.com/yuunoko/github-readme-stats">
-  <img width="48%" align="center" src="https://github-readme-stats.vercel.app/api?username=yuunoko&theme=tokyonight" />
-</a>
-<a href="https://github.com/yuunoko/github-readme-stats">
-  <img width="51%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuunoko&theme=tokyonight&layout=compact&hide=html,css" />
-</a>
+<div align="center">
+  <a href="https://github.com/yuunoko/github-readme-stats">
+    <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=yuunoko&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/yuunoko/github-readme-stats">
+    <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuunoko&theme=tokyonight&layout=compact&hide=html,css" />
+  </a>
+</div>
 
 ### Repositories:
 
 <a href="https://github.com/yuunoko/github-readme-stats">
-  <img width="48%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuunoko&repo=&theme=tokyonight" />
+  <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuunoko&repo=&theme=tokyonight" />
 </a>
 
 <!-- - 🔭 I’m currently working on ...

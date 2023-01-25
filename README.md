@@ -1,4 +1,4 @@
-## Hii, I'm Yuu
+## **Hey there, I'm Yuu!**
 
 <div align="center">
   <a href="https://github.com/yuunoko/github-readme-stats">
@@ -9,6 +9,23 @@
   </a>
 </div>
 
+### About me:
+
+```typescript
+interface Info {
+  name: string;
+  nickname: string;
+  pronouns: string;
+  langs: string[];
+}
+
+const Yuu: Info = {
+  name: 'Yuu',
+  nickname: 'yuunoko',
+  pronouns: 'He / Him',
+  langs: ['TypeScript', 'JavaScript', 'Python']
+}
+```
 
 
 <!-- - 🔭 I’m currently working on ...

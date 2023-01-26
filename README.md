@@ -1,7 +1,5 @@
 ### 🌟 ようこそ！ I'm Yuu.
 
-- Things
-
 ### 📈 My Stats:
 
 <div align="center">

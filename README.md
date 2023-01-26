@@ -1,7 +1,5 @@
 ### 🌟 ようこそ！ I'm Yuu.
 
-### My stats:
-
 <div align="center">
   <a href="https://github.com/yuunoko/github-readme-stats">
     <img height="140" align="center" src="https://github-readme-stats.vercel.app/api?username=yuunoko&theme=dracula&hide_title=true&hide_border=true&show_icons=true" />

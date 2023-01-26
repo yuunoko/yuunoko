@@ -1,15 +1,17 @@
-## **Hey there, I'm Yuu!**
+### 🌟 Hey there, I'm Yuu!
 
 <div align="center">
   <a href="https://github.com/yuunoko/github-readme-stats">
-    <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=yuunoko&theme=dracula&hide_title=true" />
+    <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=yuunoko&theme=dracula&hide_title=true&hide_border=true&show_icons=true" />
   </a>
   <a href="https://github.com/yuunoko/github-readme-stats">
-    <img width="49%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuunoko&theme=dracula&layout=compact&hide=html,css" />
+    <img width="49%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuunoko&theme=dracula&layout=compact&hide=html,css&hide_border=true" />
   </a>
 </div>
 
-### About me:
+__
+
+### 📝 About me:
 
 ```typescript
 interface Info {

@@ -1,6 +1,6 @@
 ### 🌟 ようこそ！ I'm Yuu.
 
-My stats:
+### My stats:
 
 <div align="center">
   <a href="https://github.com/yuunoko/github-readme-stats">

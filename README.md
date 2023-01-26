@@ -1,5 +1,7 @@
 ### 🌟 ようこそ！ I'm Yuu.
 
+![image](https://user-images.githubusercontent.com/95252247/214897310-081918e9-a23e-4690-b1c7-22b21d9cc015.png)
+
 ### 📝 About me:
 
 ```typescript
@@ -26,18 +28,18 @@ const Yuu: Info = {
 
 ###  My Stats:
 
-<div align="center">
+<div >
   <a href="https://github.com/yuunoko/github-readme-stats">
-    <img height="140" align="center" src="https://github-readme-stats-yuunoko.vercel.app/api?username=yuunoko&theme=dracula&hide_title=true&hide_border=true&show_icons=true" />
+    <img height="164" align="center" src="https://github-readme-stats-yuunoko.vercel.app/api?username=yuunoko&theme=dracula&hide_title=true&hide_border=true&show_icons=true" />
   </a>
   <a href="https://github.com/yuunoko/github-readme-stats">
-    <img height="140" align="center" src="https://github-readme-stats-yuunoko.vercel.app/api/top-langs/?username=yuunoko&theme=dracula&layout=compact&hide=html,css&hide_border=true" />
+    <img height="164" align="center" src="https://github-readme-stats-yuunoko.vercel.app/api/top-langs/?username=yuunoko&theme=dracula&layout=compact&hide=html,css&hide_border=true" />
   </a>
 </div>
 
 ### 📦️ Main Repositories:
 
-<div align="center">
+<div >
   <a href="https://github.com/yuunoko/github-readme-stats">
     <img height="140" align="center" src="https://github-readme-stats-yuunoko.vercel.app/api/pin/?username=yuunoko&theme=dracula&repo=react-typescript-rich-text-editor&layout=compact&hide=html,css&hide_border=true" />
   </a>

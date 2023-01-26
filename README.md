@@ -1,16 +1,5 @@
 ### 🌟 ようこそ！ I'm Yuu.
 
-### 📈 My Stats:
-
-<div align="center">
-  <a href="https://github.com/yuunoko/github-readme-stats">
-    <img height="140" align="center" src="https://github-readme-stats-yuunoko.vercel.app/api?username=yuunoko&theme=dracula&hide_title=true&hide_border=true&show_icons=true" />
-  </a>
-  <a href="https://github.com/yuunoko/github-readme-stats">
-    <img height="140" align="center" src="https://github-readme-stats-yuunoko.vercel.app/api/top-langs/?username=yuunoko&theme=dracula&layout=compact&hide=html,css&hide_border=true" />
-  </a>
-</div>
-
 ### 📝 About me:
 
 ```typescript
@@ -34,6 +23,18 @@ const Yuu: Info = {
   description: "Lorem ipsum dolor sit ame- I meant, I like anime, it songs and coding JavaScript with Cornstarch."
 }
 ```
+
+### 📈 My Stats:
+
+<div align="center">
+  <a href="https://github.com/yuunoko/github-readme-stats">
+    <img height="140" align="center" src="https://github-readme-stats-yuunoko.vercel.app/api?username=yuunoko&theme=dracula&hide_title=true&hide_border=true&show_icons=true" />
+  </a>
+  <a href="https://github.com/yuunoko/github-readme-stats">
+    <img height="140" align="center" src="https://github-readme-stats-yuunoko.vercel.app/api/top-langs/?username=yuunoko&theme=dracula&layout=compact&hide=html,css&hide_border=true" />
+  </a>
+</div>
+
 ### 📦️ Main Repositories:
 
 <div align="center">

@@ -24,7 +24,7 @@ const Yuu: Info = {
 }
 ```
 
-### 📈 My Stats:
+###  My Stats:
 
 <div align="center">
   <a href="https://github.com/yuunoko/github-readme-stats">

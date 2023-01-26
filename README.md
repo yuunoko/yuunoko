@@ -1,7 +1,9 @@
 ### 🌟 ようこそ！ I'm Yuu.
 
-![image](https://user-images.githubusercontent.com/95252247/214897310-081918e9-a23e-4690-b1c7-22b21d9cc015.png)
-
+<p align="center">
+  <img src="https://media.giphy.com/media/UpylGnykZ1k8dg3dtG/giphy.gif" />
+</p>
+  
 ### 📝 About me:
 
 ```typescript

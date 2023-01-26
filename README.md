@@ -2,10 +2,10 @@
 
 <div align="center">
   <a href="https://github.com/yuunoko/github-readme-stats">
-    <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=yuunoko&theme=tokyonight&hide_title=true" />
+    <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=yuunoko&theme=dracula&hide_title=true" />
   </a>
   <a href="https://github.com/yuunoko/github-readme-stats">
-    <img width="49%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuunoko&theme=tokyonight&layout=compact&hide=html,css" />
+    <img width="49%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuunoko&theme=dracula&layout=compact&hide=html,css" />
   </a>
 </div>
 

@@ -16,6 +16,7 @@
 ### 📝 About me:
 
 ```typescript
+// Info Interface
 interface Info {
   nickname: string;
   pronouns: string;
@@ -25,6 +26,7 @@ interface Info {
   description: string;
 }
 
+// Things about me
 const Yuu: Info = {
   nickname: 'yuunoko',
   pronouns: 'He / Him',

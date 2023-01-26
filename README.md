@@ -1,5 +1,9 @@
 ### 🌟 ようこそ！ I'm Yuu.
 
+- Things
+
+### 📈 My Stats:
+
 <div align="center">
   <a href="https://github.com/yuunoko/github-readme-stats">
     <img height="140" align="center" src="https://github-readme-stats.vercel.app/api?username=yuunoko&theme=dracula&hide_title=true&hide_border=true&show_icons=true" />
@@ -28,3 +32,8 @@ const Yuu: Info = {
   description: "Lorem ipsum dolor sit ame- I meant, I like anime, it's songs and coding JavaScript with Cornstarch."
 }
 ```
+### 📦️ Main Repositories:
+
+<a href="https://github.com/yuunoko/github-readme-stats">
+  <img height="140" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuunoko&theme=dracula&repo=react-typescript-rich-text-editor&layout=compact&hide=html,css&hide_border=true" />
+</a>

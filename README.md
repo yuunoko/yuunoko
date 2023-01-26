@@ -34,6 +34,8 @@ const Yuu: Info = {
 ```
 ### 📦️ Main Repositories:
 
-<a href="https://github.com/yuunoko/github-readme-stats">
-  <img height="140" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuunoko&theme=dracula&repo=react-typescript-rich-text-editor&layout=compact&hide=html,css&hide_border=true" />
-</a>
+<div align="center">
+  <a href="https://github.com/yuunoko/github-readme-stats">
+    <img height="140" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuunoko&theme=dracula&repo=react-typescript-rich-text-editor&layout=compact&hide=html,css&hide_border=true" />
+  </a>
+</div>

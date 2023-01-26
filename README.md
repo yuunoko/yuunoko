@@ -28,7 +28,7 @@ const Yuu: Info = {
 
 ###  My Stats:
 
-<div >
+<div align="center">
   <a href="https://github.com/yuunoko/github-readme-stats">
     <img height="164" align="center" src="https://github-readme-stats-yuunoko.vercel.app/api?username=yuunoko&theme=dracula&hide_title=true&hide_border=true&show_icons=true" />
   </a>

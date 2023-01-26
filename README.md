@@ -1,4 +1,4 @@
-### 🌟 Hey there, I'm Yuu!
+### 🌟 ようこそ！ I'm Yuu.
 
 <div align="center">
   <a href="https://github.com/yuunoko/github-readme-stats">
@@ -9,33 +9,22 @@
   </a>
 </div>
 
-
-
 ### 📝 About me:
 
 ```typescript
 interface Info {
-  name: string;
   nickname: string;
   pronouns: string;
   langs: string[];
+  languagePacks: string[];
+  description: string;
 }
 
 const Yuu: Info = {
-  name: 'Yuu',
   nickname: 'yuunoko',
   pronouns: 'He / Him',
-  langs: ['TypeScript', 'JavaScript', 'Python']
+  langs: ['TypeScript', 'JavaScript', 'Python'],
+  languagePacks: ['pt-BR', 'en-US', 'ja-JP'],
+  description: "Lorem ipsum dolor sit ame- I meant, I like anime, it's songs and coding JavaScript with Cornstarch."
 }
 ```
-
-
-<!-- - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
- -->

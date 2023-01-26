@@ -31,7 +31,7 @@ const Yuu: Info = {
   langs: ['TypeScript', 'JavaScript', 'Python', 'C'],
   skills: ['React'],
   languagePacks: ['pt-BR', 'en-US', 'ja-JP'],
-  description: "Lorem ipsum dolor sit ame- I meant, I like anime, it's songs and coding JavaScript with Cornstarch."
+  description: "Lorem ipsum dolor sit ame- I meant, I like anime, it songs and coding JavaScript with Cornstarch."
 }
 ```
 ### 📦️ Main Repositories:

@@ -41,6 +41,6 @@ const Yuu: Info = {
 
 <div >
   <a href="https://github.com/yuunoko/github-readme-stats">
-    <img height="132" align="center" src="https://github-readme-stats-yuunoko.vercel.app/api/pin/?username=yuunoko&theme=dracula&repo=react-typescript-rich-text-editor&layout=compact&hide=html,css&hide_border=true" />
+    <img height="133" align="center" src="https://github-readme-stats-yuunoko.vercel.app/api/pin/?username=yuunoko&theme=dracula&repo=react-typescript-rich-text-editor&layout=compact&hide=html,css&hide_border=true" />
   </a>
 </div>

@@ -31,10 +31,10 @@ const Yuu: Info = {
 ###  My Stats:
 
 <div align="center">
-  <a href="https://github.com/yuunoko/github-readme-stats">
+  <a href="https://github.com/yuunoko">
     <img height="158" align="center" src="https://github-readme-stats-yuunoko.vercel.app/api/top-langs/?username=yuunoko&theme=dracula&layout=compact&hide=html,css&hide_border=true" />
   </a>
-  <a href="https://github.com/yuunoko/github-readme-stats">
+  <a href="https://github.com/yuunoko">
     <img height="156" align="center" src="https://github-readme-stats-yuunoko.vercel.app/api?username=yuunoko&theme=dracula&hide_title=true&hide_border=true&show_icons=true" />
   </a>
 </div>
@@ -42,7 +42,7 @@ const Yuu: Info = {
 ### 📦️ Main Repositories:
 
 <div >
-  <a href="https://github.com/yuunoko/github-readme-stats">
+  <a href="https://github.com/yuunoko/react-typescript-rich-text-editor">
     <img height="120" align="center" src="https://github-readme-stats-yuunoko.vercel.app/api/pin/?username=yuunoko&theme=dracula&repo=react-typescript-rich-text-editor&layout=compact&hide=html,css&hide_border=true" />
   </a>
 </div>

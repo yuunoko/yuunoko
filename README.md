@@ -32,10 +32,10 @@ const Yuu: Info = {
 
 <div align="center">
   <a href="https://github.com/yuunoko">
-    <img height="158" align="center" src="https://github-readme-stats-yuunoko.vercel.app/api/top-langs/?username=yuunoko&theme=dracula&layout=compact&hide=html,css&hide_border=true" />
+    <img height="138" align="center" src="https://github-readme-stats-yuunoko.vercel.app/api/top-langs/?username=yuunoko&theme=dracula&layout=compact&hide=html,css&hide_border=true" />
   </a>
   <a href="https://github.com/yuunoko">
-    <img height="156" align="center" src="https://github-readme-stats-yuunoko.vercel.app/api?username=yuunoko&theme=dracula&hide_title=true&hide_border=true&show_icons=true" />
+    <img height="136" align="center" src="https://github-readme-stats-yuunoko.vercel.app/api?username=yuunoko&theme=dracula&hide_title=true&hide_border=true&show_icons=true" />
   </a>
 </div>
 

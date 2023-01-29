@@ -21,7 +21,7 @@ interface Info {
 const Yuu: Info = {
   nickname: 'yuunoko',
   pronouns: 'He / Him',
-  langs: ['TypeScript', 'JavaScript', 'Python', 'C'],
+  langs: ['Rust', 'TypeScript', 'JavaScript', 'Python'],
   skills: ['React'],
   languagePacks: ['pt-BR', 'en-US', 'ja-JP'],
   description: "lorem ipsum dolor sit amet consectetur adipisicing elit. nullam quisquam."

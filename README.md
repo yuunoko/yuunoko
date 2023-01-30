@@ -32,16 +32,16 @@ const Yuu: Info = {
 
 <div align="center">
   <a href="https://github.com/yuunoko">
-    <img height="150" align="center" src="https://github-readme-stats-yuunoko.vercel.app/api/top-langs/?username=yuunoko&theme=dracula&layout=compact&hide=shell,css,html&hide_border=true" />
+    <img height="140" align="center" src="https://github-readme-stats-yuunoko.vercel.app/api/top-langs/?username=yuunoko&theme=dracula&layout=compact&hide=shell,css,html&hide_border=true" />
   </a>
   <a href="https://github.com/yuunoko">
-    <img height="150" align="center" src="https://github-readme-stats-yuunoko.vercel.app/api?username=yuunoko&theme=dracula&hide_title=true&hide_border=true&show_icons=true" />
+    <img height="140" align="center" src="https://github-readme-stats-yuunoko.vercel.app/api?username=yuunoko&theme=dracula&hide_title=true&hide_border=true&show_icons=true" />
   </a>
 </div>
 
 ### 📦️ Main Repositories:
 
-<div align="center">
+<div>
   <a href="https://github.com/yuunoko/react-typescript-rich-text-editor">
     <img height="120" align="center" src="https://github-readme-stats-yuunoko.vercel.app/api/pin/?username=yuunoko&theme=dracula&repo=react-typescript-rich-text-editor&layout=compact&hide_border=true" />
   </a>

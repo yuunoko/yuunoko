@@ -30,12 +30,12 @@ const Yuu: Info = {
 
 ### 📈 My Stats:
 
-<div>
+<div align="center">
   <a href="https://github.com/yuunoko">
-    <img height="158" align="center" src="https://github-readme-stats-yuunoko.vercel.app/api/top-langs/?username=yuunoko&theme=dracula&layout=compact&hide=shell,css,html&hide_border=true" />
+    <img height="150" align="center" src="https://github-readme-stats-yuunoko.vercel.app/api/top-langs/?username=yuunoko&theme=dracula&layout=compact&hide=shell,css,html&hide_border=true" />
   </a>
   <a href="https://github.com/yuunoko">
-    <img height="156" align="center" src="https://github-readme-stats-yuunoko.vercel.app/api?username=yuunoko&theme=dracula&hide_title=true&hide_border=true&show_icons=true" />
+    <img height="150" align="center" src="https://github-readme-stats-yuunoko.vercel.app/api?username=yuunoko&theme=dracula&hide_title=true&hide_border=true&show_icons=true" />
   </a>
 </div>
 

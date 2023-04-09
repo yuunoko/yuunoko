@@ -42,6 +42,9 @@ const Yuu: Info = {
 ### 📦️ Main Repositories:
 
 <div>
+  <a href="https://github.com/yuunoko/neovim-guide">
+    <img height="120" align="center" src="https://github-readme-stats-yuunoko.vercel.app/api/pin/?username=yuunoko&theme=dracula&repo=react-typescript-rich-text-editor&layout=compact&hide_border=true" />
+  </a>
   <a href="https://github.com/yuunoko/react-typescript-rich-text-editor">
     <img height="120" align="center" src="https://github-readme-stats-yuunoko.vercel.app/api/pin/?username=yuunoko&theme=dracula&repo=react-typescript-rich-text-editor&layout=compact&hide_border=true" />
   </a>
